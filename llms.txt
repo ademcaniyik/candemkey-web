@@ -1,0 +1,28 @@
+# Candemkey
+
+> Candemkey is a privacy-first AI keyboard for iOS and Android, created by Candemsoft. It integrates on-device generative AI directly into your mobile keyboard across every app (messaging, email, social media, notes).
+
+## Core Capabilities
+- **Text Enhancement**: Fix typos, grammar, and syntax instantly with one tap on the ✦ AI button.
+- **Tone Adjustment**: Formalize professional messages, adopt a friendly casual tone, summarize long thoughts, or lengthen brief replies.
+- **Translation**: Translate text inline between Turkish, English, and Spanish without switching apps.
+- **Custom Prompts & Commands**: Write custom instructions directly from the keyboard command line.
+- **Privacy & Safety**: Keystrokes and typing history are never logged or stored on Candemsoft servers. AI processing occurs only when explicitly triggered by the user on the selected text.
+
+## Supported Platforms & Layouts
+- **Platforms**: iOS (with optional Full Access for AI features) & Android.
+- **Keyboard Layouts**: Turkish Q, English QWERTY, Spanish QWERTY.
+- **Languages**: Turkish (tr), English (en), Spanish (es).
+
+## Canonical Links
+- [Homepage (Turkish)](https://candemkey.com/tr/): Turkish product overview and interactive keyboard demo.
+- [Homepage (English)](https://candemkey.com/en/): English product overview and interactive demo.
+- [Homepage (Spanish)](https://candemkey.com/es/): Spanish product overview and interactive demo.
+- [Privacy Policy](https://candemkey.com/tr/privacy/): Comprehensive details on zero-logging architecture and data retention.
+- [KVKK Notice](https://candemkey.com/tr/kvkk/): Turkish Law No. 6698 personal data disclosure statement.
+- [Account Deletion](https://candemkey.com/tr/delete-account/): Self-service account and cloud preference deletion guide.
+
+## Contact & Organization
+- **Organization**: Candemsoft
+- **Email**: info@candemkey.com
+- **Website**: https://candemkey.com

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>404 - Sayfa Bulunamadı | Candemkey</title>
+<meta name="robots" content="noindex, follow">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.af12414784.png">
+
+<style>
+  :root {
+    --bg: #070B1A;
+    --surface: #0F1629;
+    --border: #26304D;
+    --fg: #F5F7FF;
+    --muted: #A3ACC7;
+    --accent: #8B5CF6;
+    --accent-blue: #3B82F6;
+    --accent-cyan: #06B6D4;
+    --font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    color-scheme: dark;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font);
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 16px;
+    text-align: center;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    padding: 44px 32px;
+    max-width: 540px;
+    width: 100%;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+  }
+  .wordmark {
+    width: min(280px, 80%);
+    height: auto;
+    margin: 0 auto 28px;
+    display: block;
+  }
+  .code {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 1;
+    letter-spacing: -0.04em;
+    background: linear-gradient(135deg, var(--accent), var(--accent-blue), var(--accent-cyan));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 14px;
+  }
+  h1 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: var(--fg);
+  }
+  p {
+    color: var(--muted);
+    font-size: 14.5px;
+    line-height: 1.55;
+    margin-bottom: 28px;
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 44px;
+    padding: 10px 20px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.04);
+    color: var(--fg);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.15s ease;
+  }
+  a:hover {
+    border-color: var(--accent);
+    background: rgba(139, 92, 246, 0.12);
+  }
+  a.primary {
+    background: linear-gradient(135deg, var(--accent), var(--accent-blue));
+    border-color: transparent;
+    color: #fff;
+  }
+  a.primary:hover {
+    opacity: 0.92;
+  }
+  .tag {
+    color: var(--muted);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+  }
+</style>
+</head>
+<body>
+<main class="card">
+  <picture>
+    <source type="image/avif" srcset="/assets/img/candemkey-wordmark-1080w.2c21db0c5a.avif">
+    <source type="image/webp" srcset="/assets/img/candemkey-wordmark-1080w.6a4e810a0b.webp">
+    <img class="wordmark" src="/assets/img/candemkey-wordmark-1080w.b0cc16c481.png" width="1080" height="360" alt="Candemkey">
+  </picture>
+  <div class="code">404</div>
+  <h1>Aradığın sayfa bulunamadı</h1>
+  <p>
+    Aradığın sayfa taşınmış veya silinmiş olabilir.<br>
+    The page you are looking for does not exist.<br>
+    La página que buscas no existe.
+  </p>
+  <div class="links">
+    <a href="/tr/" class="primary"><span class="tag">TR</span> Türkçe Ana Sayfa</a>
+    <a href="/en/"><span class="tag">EN</span> English</a>
+    <a href="/es/"><span class="tag">ES</span> Español</a>
+  </div>
+</main>
+</body>
+</html>

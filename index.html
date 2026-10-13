@@ -3,11 +3,72 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Candemkey: Yapay Zekâ Klavyesi | AI Keyboard</title>
+<meta name="description" content="Candemkey, yazdığın her yerde yapay zekâyı bir tuş uzağa getiren yeni nesil akıllı klavye. Düzelt, resmîleştir, çevir. iOS ve Android için yakında.">
+<link rel="canonical" href="https://candemkey.com/">
+<link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/">
+<link rel="alternate" hreflang="en" href="https://candemkey.com/en/">
+<link rel="alternate" hreflang="es" href="https://candemkey.com/es/">
+<link rel="alternate" hreflang="x-default" href="https://candemkey.com/">
 
-<link rel="icon" href="favicon.ico">
-</head>
-<body>
-<title>Candemkey Web Sitesi</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Candemkey">
+<meta property="og:title" content="Candemkey: Yapay Zekâ Klavyesi">
+<meta property="og:description" content="Yazdığın her yerde yapay zekâ bir tuş uzakta. iOS ve Android için yakında.">
+<meta property="og:url" content="https://candemkey.com/">
+<meta property="og:image" content="https://candemkey.com/og/tr.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Candemkey: Yapay Zekâ Klavyesi">
+<meta name="twitter:description" content="Yazdığın her yerde yapay zekâ bir tuş uzakta. iOS ve Android için yakında.">
+<meta name="twitter:image" content="https://candemkey.com/og/tr.png">
+
+<link rel="icon" href="favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32.af12414784.png">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://candemkey.com/#organization",
+      "name": "Candemsoft",
+      "url": "https://candemsoft.com",
+      "logo": "https://candemkey.com/assets/img/candemkey-wordmark-1080w.b0cc16c481.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "info@candemkey.com",
+        "contactType": "customer support"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://candemkey.com/#website",
+      "url": "https://candemkey.com/",
+      "name": "Candemkey",
+      "description": "Candemkey: Yazdığın her yerde yapay zekâ bir tuş uzakta.",
+      "publisher": { "@id": "https://candemkey.com/#organization" },
+      "inLanguage": ["tr-TR", "en-US", "es-ES"]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://candemkey.com/#app",
+      "name": "Candemkey",
+      "applicationCategory": "ProductivityApplication",
+      "operatingSystem": "iOS, Android",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "TRY"
+      },
+      "publisher": { "@id": "https://candemkey.com/#organization" }
+    }
+  ]
+}
+</script>
+
 <style>
   /* Tek görünüm: Candemkey sitesiyle aynı koyu marka zemini (yalnızca koyu tema). */
   :root {
@@ -39,13 +100,19 @@
   a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   a span { color: var(--muted); font-weight: 500; font-size: 13px; letter-spacing: .06em; }
 </style>
+</head>
+<body>
 <main>
-  <img class="wordmark" src="assets/img/candemkey-wordmark-1080w.b0cc16c481.png" width="1080" height="360" alt="Candemkey by Candemsoft">
+  <picture>
+    <source type="image/avif" srcset="assets/img/candemkey-wordmark-1080w.2c21db0c5a.avif">
+    <source type="image/webp" srcset="assets/img/candemkey-wordmark-1080w.6a4e810a0b.webp">
+    <img class="wordmark" src="assets/img/candemkey-wordmark-1080w.b0cc16c481.png" width="1080" height="360" alt="Candemkey by Candemsoft">
+  </picture>
   <p>Dil seç · Choose a language · Elige un idioma</p>
   <ul>
-    <li><a href="tr/index.html" hreflang="tr" lang="tr" data-lang="tr"><span>TR</span>Türkçe</a></li>
-    <li><a href="en/index.html" hreflang="en" lang="en" data-lang="en"><span>EN</span>English</a></li>
-    <li><a href="es/index.html" hreflang="es" lang="es" data-lang="es"><span>ES</span>Español</a></li>
+    <li><a href="/tr/" hreflang="tr" lang="tr" data-lang="tr"><span>TR</span>Türkçe</a></li>
+    <li><a href="/en/" hreflang="en" lang="en" data-lang="en"><span>EN</span>English</a></li>
+    <li><a href="/es/" hreflang="es" lang="es" data-lang="es"><span>ES</span>Español</a></li>
   </ul>
 </main>
 <script>
@@ -63,9 +130,8 @@
     document.querySelectorAll("a[data-lang]").forEach(function (a) {
       a.addEventListener("click", function () { try { localStorage.setItem("ck-lang", a.dataset.lang); } catch (e) {} });
     });
-    location.replace((pick || "tr") + "/index.html");
+    location.replace("/" + (pick || "tr") + "/");
   })();
 </script>
-
 </body>
 </html>
