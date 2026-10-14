@@ -14,11 +14,37 @@
 - **Keyboard Layouts**: Turkish Q, English QWERTY, Spanish QWERTY.
 - **Languages**: Turkish (tr), English (en), Spanish (es).
 
+## Documentation & Feature Guides
+### Setup Guides
+- [Setup Guide (TR)](https://candemkey.com/tr/kurulum/): iOS Tam Erişim ve Android kurulum rehberi.
+- [Setup Guide (EN)](https://candemkey.com/en/setup/): iOS Full Access & Android configuration steps.
+- [Setup Guide (ES)](https://candemkey.com/es/instalacion/): Pasos de instalación para iOS y Android.
+
+### Features
+- [Grammar & Spell Check (TR)](https://candemkey.com/tr/ozellikler/yazim-duzeltme/): İmla ve dil bilgisi düzeltme.
+- [Formal Email Tone (TR)](https://candemkey.com/tr/ozellikler/resmi-mesaj/): Resmi ve profesyonel mesaj yazma.
+- [Instant Translation (TR)](https://candemkey.com/tr/ozellikler/ceviri/): Klavyeden ayrılmadan anında çeviri.
+- [Personalization & Style (TR)](https://candemkey.com/tr/ozellikler/kisisellestirme/): Yazım tarzı hafızası ve temalar.
+- [Privacy-First Architecture (TR)](https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/): Veri güvenliği mimarisi.
+
+### Pricing & Comparisons
+- [Pricing (TR)](https://candemkey.com/tr/fiyatlandirma/): Ücretsiz ve Candemkey Pro planları.
+- [Pricing (EN)](https://candemkey.com/en/pricing/): Free & Pro subscription tiers.
+- [Pricing (ES)](https://candemkey.com/es/precios/): Planes gratuito y Pro.
+- [Candemkey vs Gboard (TR)](https://candemkey.com/tr/karsilastirma/gboard-alternatifi/): Google Gboard ile yapay zekâ ve gizlilik karşılaştırması.
+- [Candemkey vs Grammarly (TR)](https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/): Mobil yazım ve Türkçe dil desteği karşılaştırması.
+
+### Knowledge Base & Blog
+- [Blog Hub (TR)](https://candemkey.com/tr/blog/): Mobil yazım ve yapay zekâ makaleleri.
+- [iPhone Keyboard Guide (TR)](https://candemkey.com/tr/blog/iphone-klavye-degistirme/): iPhone klavye değiştirme rehberi.
+- [Formal Email Guide (TR)](https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/): Resmi iş e-postası hazırlama teknikleri.
+
 ## Canonical Links
 - [Homepage (Turkish)](https://candemkey.com/tr/): Turkish product overview and interactive keyboard demo.
 - [Homepage (English)](https://candemkey.com/en/): English product overview and interactive demo.
 - [Homepage (Spanish)](https://candemkey.com/es/): Spanish product overview and interactive demo.
 - [Privacy Policy](https://candemkey.com/tr/privacy/): Comprehensive details on zero-logging architecture and data retention.
+- [Terms of Service](https://candemkey.com/tr/terms/): End User License Agreement and Terms of Use.
 - [KVKK Notice](https://candemkey.com/tr/kvkk/): Turkish Law No. 6698 personal data disclosure statement.
 - [Account Deletion](https://candemkey.com/tr/delete-account/): Self-service account and cloud preference deletion guide.
 

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://candemkey.com/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/"/>
@@ -10,110 +10,410 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/"/>
   </url>
   <url>
     <loc>https://candemkey.com/en/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/"/>
   </url>
   <url>
     <loc>https://candemkey.com/es/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/kurulum/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kurulum/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/setup/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/instalacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/kurulum/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/setup/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kurulum/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/setup/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/instalacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/kurulum/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/instalacion/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kurulum/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/setup/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/instalacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/kurulum/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/ozellikler/yazim-duzeltme/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/grammar-fix/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/corrector-texto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/features/grammar-fix/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/grammar-fix/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/corrector-texto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/funciones/corrector-texto/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/grammar-fix/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/corrector-texto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/ozellikler/resmi-mesaj/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/formal-tone/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/tono-formal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/features/formal-tone/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/formal-tone/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/tono-formal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/funciones/tono-formal/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/formal-tone/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/tono-formal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/ozellikler/ceviri/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/translation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/traduccion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/features/translation/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/translation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/traduccion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/funciones/traduccion/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/translation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/traduccion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/ozellikler/kisisellestirme/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/customization/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/personalizacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/features/customization/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/customization/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/personalizacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/funciones/personalizacion/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/customization/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/personalizacion/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/features/privacy/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/funciones/privacidad/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/privacidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/fiyatlandirma/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/fiyatlandirma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/pricing/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/precios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/fiyatlandirma/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/pricing/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/fiyatlandirma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/pricing/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/precios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/fiyatlandirma/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/precios/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/fiyatlandirma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/pricing/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/precios/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/fiyatlandirma/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/karsilastirma/gboard-alternatifi/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-gboard/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-gboard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/compare/candemkey-vs-gboard/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-gboard/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-gboard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/comparar/candemkey-vs-gboard/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-gboard/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-gboard/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/compare/candemkey-vs-grammarly/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/comparar/candemkey-vs-grammarly/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-grammarly/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/blog/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/blog/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/blog/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/blog/iphone-klavye-degistirme/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-change-keyboard-on-iphone/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-cambiar-teclado-en-iphone/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/blog/how-to-change-keyboard-on-iphone/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-change-keyboard-on-iphone/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-cambiar-teclado-en-iphone/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/blog/como-cambiar-teclado-en-iphone/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-change-keyboard-on-iphone/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-cambiar-teclado-en-iphone/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-write-formal-emails/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-escribir-correos-formales/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/blog/how-to-write-formal-emails/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-write-formal-emails/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-escribir-correos-formales/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/blog/como-escribir-correos-formales/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-write-formal-emails/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-escribir-correos-formales/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
   </url>
   <url>
     <loc>https://candemkey.com/tr/privacy/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/privacy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/privacy/"/>
   </url>
   <url>
     <loc>https://candemkey.com/en/privacy/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/privacy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/privacy/"/>
   </url>
   <url>
     <loc>https://candemkey.com/es/privacy/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/privacy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/privacy/"/>
-  </url>
-  <url>
-    <loc>https://candemkey.com/tr/kvkk/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
-  </url>
-  <url>
-    <loc>https://candemkey.com/en/kvkk/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
-  </url>
-  <url>
-    <loc>https://candemkey.com/es/kvkk/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
-  </url>
-  <url>
-    <loc>https://candemkey.com/tr/delete-account/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>
-  </url>
-  <url>
-    <loc>https://candemkey.com/en/delete-account/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>
-  </url>
-  <url>
-    <loc>https://candemkey.com/es/delete-account/</loc>
-    <lastmod>2026-10-13</lastmod>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/privacy/"/>
   </url>
   <url>
     <loc>https://candemkey.com/tr/terms/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/terms/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/terms/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/terms/"/>
   </url>
   <url>
     <loc>https://candemkey.com/en/terms/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/terms/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/terms/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/terms/"/>
   </url>
   <url>
     <loc>https://candemkey.com/es/terms/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/terms/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/terms/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/terms/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/kvkk/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/kvkk/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/kvkk/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/kvkk/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/kvkk/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/kvkk/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/delete-account/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/delete-account/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/delete-account/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/delete-account/"/>
   </url>
 </urlset>
