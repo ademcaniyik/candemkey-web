@@ -117,20 +117,31 @@
 </main>
 <script>
   (function () {
-    var langs = ["tr", "en", "es"], pick = null;
+    var langs = ["tr", "en", "es"];
+    var prefs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ""];
+    var isTr = false;
+    for (var i = 0; i < prefs.length; i++) {
+      if (String(prefs[i]).slice(0, 2).toLowerCase() === "tr") { isTr = true; break; }
+    }
+
+    if (isTr) {
+      try { localStorage.setItem("ck-lang", "tr"); } catch (e) {}
+      location.replace("/tr/" + location.hash);
+      return;
+    }
+
+    var pick = null;
     try { pick = localStorage.getItem("ck-lang"); } catch (e) {}
-    if (langs.indexOf(pick) < 0) {
-      pick = null;
-      var prefs = navigator.languages || [navigator.language || ""];
-      for (var i = 0; i < prefs.length && !pick; i++) {
-        var code = String(prefs[i]).slice(0, 2).toLowerCase();
+    if (!pick || langs.indexOf(pick) < 0) {
+      for (var j = 0; j < prefs.length && !pick; j++) {
+        var code = String(prefs[j]).slice(0, 2).toLowerCase();
         if (langs.indexOf(code) >= 0) pick = code;
       }
     }
     document.querySelectorAll("a[data-lang]").forEach(function (a) {
       a.addEventListener("click", function () { try { localStorage.setItem("ck-lang", a.dataset.lang); } catch (e) {} });
     });
-    location.replace("/" + (pick || "tr") + "/");
+    location.replace("/" + (pick || "tr") + "/" + location.hash);
   })();
 </script>
 </body>
