@@ -1,0 +1,27 @@
+/* Gerçek ekran görüntüleri (21 Ekim 2026): telefon çerçevesi, AI paneli listesi, galeri, hitap çipleri. Yalnızca token değişkenleri. */
+.shot{margin:0;min-width:0}
+.shot__frame{position:relative;display:block;margin-inline:auto;width:100%;max-width:var(--shot-w,320px);border-radius:var(--shot-r,46px);padding:7px;background:rgb(var(--ck-color-dark-surface-high-rgb) / .9);border:1px solid rgb(var(--ck-color-dark-text-primary-rgb) / .12);box-shadow:0 30px 80px -30px rgb(var(--ck-color-brand-purple-rgb) / .45),0 12px 30px -12px rgb(var(--ck-color-dark-background-rgb) / .9)}
+.shot__frame img{display:block;width:100%;height:auto;border-radius:calc(var(--shot-r,46px) - 7px)}
+.shot--android{--shot-r:30px}
+.shot--hero{--shot-w:340px}
+.shot__cap{margin:var(--ck-spacing-md) auto 0;max-width:var(--shot-w,320px);font-size:var(--ck-font-size-caption);line-height:1.5;color:var(--ck-color-dark-text-secondary);text-align:center}
+.hero-demo .shot{position:relative;z-index:1}
+.ai-showcase{display:grid;grid-template-columns:minmax(0,1fr);gap:calc(var(--ck-spacing-xxl) * 1.25);align-items:start}
+@media (min-width:900px){.ai-showcase{grid-template-columns:300px minmax(0,1fr)}}
+.ai-list{margin:0;display:grid;gap:var(--ck-spacing-lg)}
+.ai-list__row{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--ck-spacing-xs);padding-bottom:var(--ck-spacing-lg);border-bottom:1px solid rgb(var(--ck-color-dark-border-rgb) / .8)}
+.ai-list__row:last-child{border-bottom:0;padding-bottom:0}
+.ai-list dt{display:flex;flex-wrap:wrap;gap:var(--ck-spacing-xs);align-items:center}
+.ai-list dd{margin:0;font-size:var(--ck-font-size-body);line-height:1.55;color:var(--ck-color-dark-text-secondary);max-width:60ch}
+.pill{display:inline-flex;align-items:center;gap:4px;height:32px;padding:0 14px;border-radius:var(--ck-radius-pill);background:rgb(var(--ck-color-dark-surface-high-rgb) / 1);color:var(--ck-color-dark-text-primary);font-size:var(--ck-font-size-body);font-weight:var(--ck-font-weight-medium);white-space:nowrap}
+.pill--sub{height:28px;padding:0 12px;font-size:var(--ck-font-size-caption);background:rgb(var(--ck-color-dark-surface-rgb) / 1);border:1px solid rgb(var(--ck-color-dark-border-rgb) / 1);color:var(--ck-color-dark-text-secondary)}
+.pill--on{background:rgb(var(--ck-color-brand-purple-rgb) / .22);border:1px solid rgb(var(--ck-color-brand-purple-rgb) / .7);color:var(--ck-color-dark-text-primary)}
+.gallery-head{max-width:720px;margin-bottom:calc(var(--ck-spacing-xxl) * 1.25)}
+.gallery{list-style:none;margin:0;padding:4px 2px var(--ck-spacing-lg);display:grid;grid-auto-flow:column;grid-auto-columns:min(70vw,250px);gap:var(--ck-spacing-xl);overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:thin}
+.gallery>li{scroll-snap-align:start;--shot-w:250px;--shot-r:36px}
+.gallery h3{margin:var(--ck-spacing-md) 0 4px;font-size:var(--ck-font-size-body-large);font-weight:var(--ck-font-weight-semibold);color:var(--ck-color-dark-text-primary)}
+.gallery p{margin:0;font-size:var(--ck-font-size-body);line-height:1.5;color:var(--ck-color-dark-text-secondary)}
+.gallery:focus-visible{outline:2px solid var(--ck-color-brand-purple);outline-offset:4px;border-radius:var(--ck-radius-md)}
+.addr{margin-bottom:var(--ck-spacing-lg)}
+.addr__chips{display:flex;flex-wrap:wrap;gap:var(--ck-spacing-xs);margin-top:var(--ck-spacing-sm)}
+.addr .pill{height:30px;font-size:var(--ck-font-size-caption)}
