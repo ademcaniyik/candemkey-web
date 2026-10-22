@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://candemkey.com/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/"/>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/"/>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/"/>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/"/>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/kurulum/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kurulum/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/setup/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/instalacion/"/>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/setup/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kurulum/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/setup/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/instalacion/"/>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/instalacion/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kurulum/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/setup/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/instalacion/"/>
@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/ozellikler/yazim-duzeltme/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/grammar-fix/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/corrector-texto/"/>
@@ -66,7 +66,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/features/grammar-fix/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/grammar-fix/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/corrector-texto/"/>
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/funciones/corrector-texto/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/yazim-duzeltme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/grammar-fix/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/corrector-texto/"/>
@@ -82,7 +82,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/ozellikler/resmi-mesaj/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/formal-tone/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/tono-formal/"/>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/features/formal-tone/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/formal-tone/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/tono-formal/"/>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/funciones/tono-formal/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/resmi-mesaj/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/formal-tone/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/tono-formal/"/>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/ozellikler/ceviri/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/translation/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/traduccion/"/>
@@ -114,7 +114,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/features/translation/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/translation/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/traduccion/"/>
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/funciones/traduccion/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/ceviri/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/translation/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/traduccion/"/>
@@ -130,7 +130,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/ozellikler/kisisellestirme/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/customization/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/personalizacion/"/>
@@ -138,7 +138,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/features/customization/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/customization/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/personalizacion/"/>
@@ -146,7 +146,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/funciones/personalizacion/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/kisisellestirme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/customization/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/personalizacion/"/>
@@ -154,7 +154,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/privacidad/"/>
@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/features/privacy/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/privacidad/"/>
@@ -170,7 +170,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/funciones/privacidad/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/ozellikler/gizlilik-odakli-klavye/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/features/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/funciones/privacidad/"/>
@@ -178,7 +178,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/fiyatlandirma/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/fiyatlandirma/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/pricing/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/precios/"/>
@@ -186,7 +186,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/pricing/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/fiyatlandirma/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/pricing/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/precios/"/>
@@ -194,7 +194,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/precios/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/fiyatlandirma/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/pricing/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/precios/"/>
@@ -202,7 +202,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/karsilastirma/gboard-alternatifi/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-gboard/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-gboard/"/>
@@ -210,7 +210,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/compare/candemkey-vs-gboard/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-gboard/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-gboard/"/>
@@ -218,7 +218,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/comparar/candemkey-vs-gboard/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/gboard-alternatifi/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-gboard/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-gboard/"/>
@@ -226,7 +226,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-grammarly/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-grammarly/"/>
@@ -234,7 +234,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/compare/candemkey-vs-grammarly/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-grammarly/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-grammarly/"/>
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/comparar/candemkey-vs-grammarly/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/karsilastirma/candemkey-vs-grammarly/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/compare/candemkey-vs-grammarly/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/comparar/candemkey-vs-grammarly/"/>
@@ -250,7 +250,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/blog/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/"/>
@@ -258,7 +258,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/blog/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/"/>
@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/blog/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/"/>
@@ -274,7 +274,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/blog/iphone-klavye-degistirme/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-change-keyboard-on-iphone/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-cambiar-teclado-en-iphone/"/>
@@ -282,7 +282,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/blog/how-to-change-keyboard-on-iphone/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-change-keyboard-on-iphone/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-cambiar-teclado-en-iphone/"/>
@@ -290,7 +290,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/blog/como-cambiar-teclado-en-iphone/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/iphone-klavye-degistirme/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-change-keyboard-on-iphone/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-cambiar-teclado-en-iphone/"/>
@@ -298,7 +298,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-write-formal-emails/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-escribir-correos-formales/"/>
@@ -306,7 +306,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/blog/how-to-write-formal-emails/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-write-formal-emails/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-escribir-correos-formales/"/>
@@ -314,15 +314,63 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/blog/como-escribir-correos-formales/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/how-to-write-formal-emails/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/como-escribir-correos-formales/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/"/>
   </url>
   <url>
+    <loc>https://candemkey.com/tr/blog/yapay-zeka-destekli-klavye-nedir/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/yapay-zeka-destekli-klavye-nedir/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/what-is-an-ai-keyboard/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/que-es-un-teclado-inteligencia-artificial/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/yapay-zeka-destekli-klavye-nedir/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/blog/what-is-an-ai-keyboard/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/yapay-zeka-destekli-klavye-nedir/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/what-is-an-ai-keyboard/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/que-es-un-teclado-inteligencia-artificial/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/yapay-zeka-destekli-klavye-nedir/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/blog/que-es-un-teclado-inteligencia-artificial/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/yapay-zeka-destekli-klavye-nedir/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/what-is-an-ai-keyboard/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/que-es-un-teclado-inteligencia-artificial/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/yapay-zeka-destekli-klavye-nedir/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/tr/blog/en-iyi-yapay-zeka-klavyeleri/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/en-iyi-yapay-zeka-klavyeleri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/best-ai-keyboards/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/mejores-teclados-ia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/en-iyi-yapay-zeka-klavyeleri/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/en/blog/best-ai-keyboards/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/en-iyi-yapay-zeka-klavyeleri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/best-ai-keyboards/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/mejores-teclados-ia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/en-iyi-yapay-zeka-klavyeleri/"/>
+  </url>
+  <url>
+    <loc>https://candemkey.com/es/blog/mejores-teclados-ia/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/blog/en-iyi-yapay-zeka-klavyeleri/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/blog/best-ai-keyboards/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/blog/mejores-teclados-ia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://candemkey.com/tr/blog/en-iyi-yapay-zeka-klavyeleri/"/>
+  </url>
+  <url>
     <loc>https://candemkey.com/tr/privacy/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/privacy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/privacy/"/>
@@ -330,7 +378,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/privacy/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/privacy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/privacy/"/>
@@ -338,7 +386,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/privacy/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/privacy/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/privacy/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/privacy/"/>
@@ -346,7 +394,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/terms/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/terms/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/terms/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/terms/"/>
@@ -354,7 +402,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/terms/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/terms/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/terms/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/terms/"/>
@@ -362,7 +410,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/terms/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/terms/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/terms/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/terms/"/>
@@ -370,7 +418,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/kvkk/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
@@ -378,7 +426,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/kvkk/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
@@ -386,7 +434,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/kvkk/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/kvkk/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/kvkk/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/kvkk/"/>
@@ -394,7 +442,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/tr/delete-account/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>
@@ -402,7 +450,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/en/delete-account/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>
@@ -410,7 +458,7 @@
   </url>
   <url>
     <loc>https://candemkey.com/es/delete-account/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://candemkey.com/tr/delete-account/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://candemkey.com/en/delete-account/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://candemkey.com/es/delete-account/"/>

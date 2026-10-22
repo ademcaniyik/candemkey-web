@@ -56,6 +56,8 @@
       "@type": "SoftwareApplication",
       "@id": "https://candemkey.com/#app",
       "name": "Candemkey",
+      "url": "https://candemkey.com/",
+      "description": "Candemkey, yazdığın her yerde yapay zekâyı bir tuş uzağa getiren yeni nesil akıllı klavye.",
       "applicationCategory": "ProductivityApplication",
       "operatingSystem": "iOS, Android",
       "offers": {
@@ -99,10 +101,15 @@
   a:hover { border-color: var(--accent); }
   a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
   a span { color: var(--muted); font-weight: 500; font-size: 13px; letter-spacing: .06em; }
+  .vh {
+    position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+  }
 </style>
 </head>
 <body>
 <main>
+  <h1 class="vh">Candemkey: Yapay Zekâ Klavyesi | AI Keyboard</h1>
   <picture>
     <source type="image/avif" srcset="assets/img/candemkey-wordmark-1080w.2c21db0c5a.avif">
     <source type="image/webp" srcset="assets/img/candemkey-wordmark-1080w.6a4e810a0b.webp">
@@ -114,9 +121,15 @@
     <li><a href="/en/" hreflang="en" lang="en" data-lang="en"><span>EN</span>English</a></li>
     <li><a href="/es/" hreflang="es" lang="es" data-lang="es"><span>ES</span>Español</a></li>
   </ul>
+  <noscript>
+    <p style="font-size: 13px; margin-top: 12px; color: var(--muted);">Lütfen yukarıdaki bağlantılardan bir dil seçin. / Please choose a language above. / Por favor elige un idioma.</p>
+  </noscript>
 </main>
 <script>
   (function () {
+    var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(navigator.userAgent || "");
+    if (isBot || location.search.indexOf("no-redirect") >= 0) return;
+
     var langs = ["tr", "en", "es"];
     var prefs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ""];
     var isTr = false;

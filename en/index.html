@@ -81,12 +81,30 @@
       },
       "publisher": {
         "@id": "https://candemkey.com/#organization"
-      }
+      },
+      "url": "https://candemkey.com/en/",
+      "description": "Candemkey is the AI keyboard that stays one tap away wherever you type. Fix, formalize, translate, and rephrase right from your keyboard."
     },
     {
       "@type": "FAQPage",
       "@id": "https://candemkey.com/en/#faq",
       "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What AI model powers Candemkey?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Candemkey utilizes a hybrid AI architecture: local typing, autocomplete, and basic spell check run directly on-device. When you trigger an AI rewrite action, requests are securely handled by state-of-the-art large language models via private encrypted endpoints."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is Candemkey different from Gboard or SwiftKey?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Traditional keyboards merely suggest the next word based on n-grams. Candemkey operates as an on-keyboard writing assistant that can rewrite entire paragraphs, shift tones to formal or casual, and translate text right in the textfield without app-switching."
+          }
+        },
         {
           "@type": "Question",
           "name": "What can the AI do?",
@@ -100,15 +118,15 @@
           "name": "Do I have to sign in?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Not to type: the keyboard works without an account. AI and Memory need you to sign in, with Apple or Google on iPhone and with Google on Android. AI also needs an internet connection, and Full Access on iPhone."
+            "text": "Not to type: the keyboard works without an account. AI features require signing in: with Apple or Google on iPhone, and with Google on Android. AI also needs an internet connection, and Full Access on iPhone."
           }
         },
         {
           "@type": "Question",
-          "name": "What does “Let AI learn my writing style” do?",
+          "name": "How does writing style learning work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It's off by default. If you turn it on, it draws short notes about your writing style as you use the AI panel and shows them in Memory with an “AI learned” badge. You can edit or delete those notes. New AI request and reply text is no longer written to Candemsoft debug logs; see the privacy policy for earlier test records. If you turn it off, the learned notes are deleted."
+            "text": "This feature is in development for the initial release and is disabled. When enabled in future updates, AI will be able to take brief notes on your writing style that you can edit or delete at any time."
           }
         },
         {
@@ -132,7 +150,7 @@
           "name": "What data do you keep on the server?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If you sign in: your account details, settings, Memory items and usage counters (no text). You can export all of it as JSON from the app, or delete your account to remove it permanently. If you don't sign in, there's no account kept for you on the server."
+            "text": "If you sign in: your account details, settings, and usage counters (no text). You can export all of it as JSON from the app, or delete your account to remove it permanently. If you don't sign in, there's no account kept for you on the server."
           }
         },
         {
@@ -157,6 +175,22 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "In password fields the AI panel doesn't open and the keyboard records nothing. On iPhone, iOS switches to its own keyboard in password fields anyway."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Candemkey free, and what does Pro include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Basic text corrections, personal dictionary, and 10 free AI operations daily are completely free. Candemkey Pro will offer expanded daily AI usage (100 requests per day), custom professional/academic styles, and priority server response."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it work offline without internet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Regular keyboard typing, letter suggestions, personal dictionaries, and layouts for English, Spanish, and Turkish work completely offline. Only cloud AI text rewrites and translations require internet connectivity."
           }
         },
         {
@@ -334,7 +368,7 @@
 <div class="ledger">
 <div class="ledger-row"><h3 class="h3">Not stored on our servers</h3><div class="ledger-body"><p>Text you choose to send is processed by our AI provider. Since October 14, 2026, new request and reply text is not written to Candemsoft debug logs; see the privacy policy for earlier test records.</p></div></div>
 <div class="ledger-row"><h3 class="h3">When does AI run?</h3><div class="ledger-body"><p>Only when you press the AI key and pick an action or send a request. Only on that text: your selection, or if nothing is selected, what&#39;s before the cursor.</p></div></div>
-<div class="ledger-row"><h3 class="h3">Kept with your account, if you sign in</h3><div class="ledger-body"><p>Your account details (Apple or Google ID, email, display name), your settings (including custom instructions), your Memory items and usage counters. The counters hold no text, only the type and time of each action.</p></div></div>
+<div class="ledger-row"><h3 class="h3">Kept with your account, if you sign in</h3><div class="ledger-body"><p>Your account details (Apple or Google ID, email, display name), your settings (including custom instructions) and usage counters. The counters hold no text, only the type and time of each action.</p></div></div>
 <div class="ledger-row"><h3 class="h3">Only on your device</h3><div class="ledger-body"><p>Your personal dictionary and background image. You can erase the dictionary with one tap; the image is never sent anywhere.</p></div></div>
 <div class="ledger-row"><h3 class="h3">Password fields</h3><div class="ledger-body"><p>In password and secure fields the keyboard records nothing, and the AI panel doesn&#39;t open.</p></div></div>
 <div class="ledger-row"><h3 class="h3">Full Access</h3><div class="ledger-body ledger-split">
@@ -354,24 +388,24 @@
 <div class="faq-list">
 <div class="faq-group">
 <h3 class="ck-label faq-group__lbl">AI</h3>
-<details class="qa" name="faq"><summary><span>What AI model powers Candemkey?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Candemkey utilizes a hybrid intelligence architecture: local typing, autocomplete, and basic spell check run on an ultra-fast on-device engine. When you trigger an AI rewrite action, requests are securely handled by state-of-the-art large language models (customized GPT-5 and Claude models) via private encrypted endpoints.</p></details>
+<details class="qa" name="faq"><summary><span>What AI model powers Candemkey?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Candemkey utilizes a hybrid AI architecture: local typing, autocomplete, and basic spell check run directly on-device. When you trigger an AI rewrite action, requests are securely handled by state-of-the-art large language models via private encrypted endpoints.</p></details>
 <details class="qa" name="faq"><summary><span>How is Candemkey different from Gboard or SwiftKey?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Traditional keyboards merely suggest the next word based on n-grams. Candemkey operates as an on-keyboard writing assistant that can rewrite entire paragraphs, shift tones to formal or casual, and translate text right in the textfield without app-switching.</p></details>
 <details class="qa" name="faq"><summary><span>What can the AI do?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Press the AI key and the panel shows Ask and Fix plus the Tone menu; Tone has Formal, Casual, Shorten, Expand, Translate and Suggest reply. For anything else, type it in the “Tell Candemkey something…” line, like translating a text or writing a message from scratch in an empty field. Then Apply puts the result in place of your text, Copy sends it to the clipboard, or Retry asks for another version.</p></details>
-<details class="qa" name="faq"><summary><span>Do I have to sign in?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Not to type: the keyboard works without an account. AI and Memory need you to sign in, with Apple or Google on iPhone and with Google on Android. AI also needs an internet connection, and Full Access on iPhone.</p></details>
-<details class="qa" name="faq"><summary><span>What does “Let AI learn my writing style” do?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">It&#39;s off by default. If you turn it on, it draws short notes about your writing style as you use the AI panel and shows them in Memory with an “AI learned” badge. You can edit or delete those notes. New AI request and reply text is no longer written to Candemsoft debug logs; see the privacy policy for earlier test records. If you turn it off, the learned notes are deleted.</p></details>
+<details class="qa" name="faq"><summary><span>Do I have to sign in?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Not to type: the keyboard works without an account. AI features require signing in: with Apple or Google on iPhone, and with Google on Android. AI also needs an internet connection, and Full Access on iPhone.</p></details>
+<details class="qa" name="faq"><summary><span>How does writing style learning work?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">This feature is in development for the initial release and is disabled. When enabled in future updates, AI will be able to take brief notes on your writing style that you can edit or delete at any time.</p></details>
 <details class="qa" name="faq"><summary><span>How do safety and content filters work?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Candemkey operates with fixed safety guidelines suitable for all family and work environments; profanity, hate speech, and adult content generation are strictly disabled.</p></details>
 </div>
 <div class="faq-group">
 <h3 class="ck-label faq-group__lbl">PRIVACY</h3>
 <details class="qa" name="faq"><summary><span>Is what I type being saved?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">The keyboard only sends text when you press the AI key and start an action: your selection, or what's before the cursor. That text goes to our AI provider to produce the reply. Since October 14, 2026, new request and reply text is not written to Candemsoft debug logs; the privacy policy explains earlier test records. If “Learn words” is on, new words you type often are added to the personal dictionary on your device only.</p></details>
-<details class="qa" name="faq"><summary><span>What data do you keep on the server?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">If you sign in: your account details, settings, Memory items and usage counters (no text). You can export all of it as JSON from the app, or delete your account to remove it permanently. If you don&#39;t sign in, there&#39;s no account kept for you on the server.</p></details>
+<details class="qa" name="faq"><summary><span>What data do you keep on the server?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">If you sign in: your account details, settings, and usage counters (no text). You can export all of it as JSON from the app, or delete your account to remove it permanently. If you don&#39;t sign in, there&#39;s no account kept for you on the server.</p></details>
 <details class="qa" name="faq"><summary><span>Why does it ask for Full Access?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Only on iPhone, and only for AI. iOS lets a keyboard go online only with “Allow Full Access” on, and AI has to reach our server. It isn&#39;t needed for typing: with it off, the keyboard works offline. It&#39;s optional during setup, and you can skip it.</p></details>
 <details class="qa" name="faq"><summary><span>Why does Android show a security warning?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Android shows that warning as standard for every keyboard you enable. Since October 14, 2026, new AI request and reply text is not written to Candemsoft debug logs; see the privacy policy for earlier test records.</p></details>
 <details class="qa" name="faq"><summary><span>Does it work in password fields?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">In password fields the AI panel doesn&#39;t open and the keyboard records nothing. On iPhone, iOS switches to its own keyboard in password fields anyway.</p></details>
 </div>
 <div class="faq-group">
 <h3 class="ck-label faq-group__lbl">KEYBOARD</h3>
-<details class="qa" name="faq"><summary><span>Is Candemkey free, and what does Pro include?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Candemkey is free to download and use with 10 free AI operations daily, offline dictionary completions, and full privacy protection. Candemkey Pro will offer unlimited AI usage, custom professional tones, writing style memory, and high-priority server processing.</p></details>
+<details class="qa" name="faq"><summary><span>Is Candemkey free, and what does Pro include?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Basic text corrections, personal dictionary, and 10 free AI operations daily are completely free. Candemkey Pro will offer expanded daily AI usage (100 requests per day), custom professional/academic styles, and priority server response.</p></details>
 <details class="qa" name="faq"><summary><span>Does it work offline without internet?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Yes. Regular keyboard typing, letter suggestions, personal dictionaries, and layouts for English, Spanish, and Turkish work completely offline. Only cloud AI text rewrites and translations require internet connectivity.</p></details>
 <details class="qa" name="faq"><summary><span>Which languages does it support?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">There are three layouts: Turkish Q, English QWERTY and Spanish QWERTY. You choose which ones to use and their order in the app; the first one is used when the keyboard opens. The app and the AI panel are in Turkish, English and Spanish too.</p></details>
 <details class="qa" name="faq"><summary><span>Can I change how the keyboard looks?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Yes. In Keyboard settings you&#39;ll find Dark, Light or System theme; Short (default), Normal or Tall height (plus Extra short on Android); your own photo as a background; key borders, one-handed mode and haptic feedback. Key sound is iOS only.</p></details>

@@ -81,12 +81,30 @@
       },
       "publisher": {
         "@id": "https://candemkey.com/#organization"
-      }
+      },
+      "url": "https://candemkey.com/es/",
+      "description": "Candemkey es el teclado con inteligencia artificial a un toque de distancia dondequiera que escribas. Corrector de texto, tono formal, traducción y acciones inteligentes."
     },
     {
       "@type": "FAQPage",
       "@id": "https://candemkey.com/es/#faq",
       "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Qué modelo de inteligencia artificial utiliza?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Candemkey combina una arquitectura híbrida: la escritura básica y sugerencias se procesan localmente en el dispositivo. Cuando solicitas una acción de IA, modelos avanzados de lenguaje procesan tu consulta de manera encriptada y privada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿En qué se diferencia de Gboard o SwiftKey?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los teclados estándar solo sugieren palabras sueltas. Candemkey reescribe oraciones completas, adapta el tono a formal o informal y traduce idiomas en vivo sin necesidad de abrir otras aplicaciones."
+          }
+        },
         {
           "@type": "Question",
           "name": "¿Qué puede hacer la IA?",
@@ -100,15 +118,15 @@
           "name": "¿Tengo que iniciar sesión?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Para escribir, no: el teclado funciona sin cuenta. La IA y la Memoria sí requieren iniciar sesión: con Apple o Google en iPhone, y con Google en Android. La IA también necesita conexión a internet y, en iPhone, Acceso completo."
+            "text": "Para escribir, no: el teclado funciona sin cuenta. Las funciones de IA requieren iniciar sesión: con Apple o Google en iPhone, y con Google en Android. La IA también necesita conexión a internet y, en iPhone, Acceso completo."
           }
         },
         {
           "@type": "Question",
-          "name": "¿Qué hace «Que la IA aprenda mi estilo de escritura»?",
+          "name": "¿Cómo funciona el aprendizaje del estilo de escritura?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Está desactivado por defecto. Si lo activas, a medida que usas el panel de IA extrae notas breves sobre tu estilo de escritura y las muestra en Memoria con la etiqueta «Aprendido por la IA». Puedes editarlas o borrarlas. El nuevo texto de solicitudes y respuestas de IA ya no se escribe en nuestros registros de depuración; la política explica los registros de pruebas anteriores. Si lo desactivas, se borran las notas aprendidas."
+            "text": "Esta función está en desarrollo para la primera versión y permanece desactivada. Cuando se active en futuras actualizaciones, la IA podrá guardar notas breves sobre tu estilo de escritura que podrás editar o eliminar en cualquier momento."
           }
         },
         {
@@ -132,7 +150,7 @@
           "name": "¿Qué datos míos se guardan en el servidor?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Si inicias sesión: los datos de tu cuenta, tus ajustes, tus elementos de Memoria y los contadores de uso (sin texto). Puedes exportarlo todo en JSON desde la app o eliminar tu cuenta para borrarlo de forma permanente. Si no inicias sesión, no se guarda ninguna cuenta tuya en el servidor."
+            "text": "Si inicias sesión: los datos de tu cuenta, tus ajustes y los contadores de uso (sin texto). Puedes exportarlo todo en JSON desde la app o eliminar tu cuenta para borrarlo de forma permanente. Si no inicias sesión, no se guarda ninguna cuenta tuya en el servidor."
           }
         },
         {
@@ -157,6 +175,22 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "En los campos de contraseña el panel de IA no se abre y el teclado no registra nada. En iPhone, iOS ya cambia a su propio teclado en esos campos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Es gratis y qué incluye Candemkey Pro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Las correcciones básicas, el diccionario personal y 10 operaciones diarias de IA son completamente gratuitas. Candemkey Pro ofrecerá uso diario ampliado de IA (100 peticiones al día), estilos profesionales/académicos personalizados y respuesta prioritaria del servidor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Funciona sin conexión a internet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. La escritura estándar, el diccionario personal y las predicciones funcionan completamente fuera de línea. Únicamente la reescritura profunda y la traducción con IA requieren acceso a internet."
           }
         },
         {
@@ -334,7 +368,7 @@
 <div class="ledger">
 <div class="ledger-row"><h3 class="h3">El nuevo texto de IA no se registra</h3><div class="ledger-body"><p>El texto que eliges enviar se procesa con nuestro proveedor de IA. Desde el 14 de octubre de 2026, el nuevo texto de solicitudes y respuestas no se escribe en los registros de depuración de Candemsoft; consulta la política para los registros anteriores.</p></div></div>
 <div class="ledger-row"><h3 class="h3">¿Cuándo funciona la IA?</h3><div class="ledger-body"><p>Solo cuando pulsas la tecla de IA y eliges una acción o envías una petición. Solo sobre ese texto: lo que tengas seleccionado o, si no hay selección, lo que está antes del cursor.</p></div></div>
-<div class="ledger-row"><h3 class="h3">Se guarda con tu cuenta, si inicias sesión</h3><div class="ledger-body"><p>Los datos de tu cuenta (ID de Apple o Google, correo, nombre visible), tus ajustes (incluidas tus instrucciones personalizadas), tus elementos de Memoria y los contadores de uso. Los contadores no contienen texto, solo el tipo y la hora de cada acción.</p></div></div>
+<div class="ledger-row"><h3 class="h3">Se guarda con tu cuenta, si inicias sesión</h3><div class="ledger-body"><p>Los datos de tu cuenta (ID de Apple o Google, correo, nombre visible), tus ajustes (incluidas tus instrucciones personalizadas) y los contadores de uso. Los contadores no contienen texto, solo el tipo y la hora de cada acción.</p></div></div>
 <div class="ledger-row"><h3 class="h3">Solo en tu dispositivo</h3><div class="ledger-body"><p>Tu diccionario personal y tu imagen de fondo. El diccionario se borra con un toque; la imagen no se envía a ninguna parte.</p></div></div>
 <div class="ledger-row"><h3 class="h3">Campos de contraseña</h3><div class="ledger-body"><p>En campos de contraseña y seguros el teclado no registra nada y el panel de IA no se abre.</p></div></div>
 <div class="ledger-row"><h3 class="h3">Acceso completo</h3><div class="ledger-body ledger-split">
@@ -354,24 +388,24 @@
 <div class="faq-list">
 <div class="faq-group">
 <h3 class="ck-label faq-group__lbl">IA</h3>
-<details class="qa" name="faq"><summary><span>¿Qué modelo de inteligencia artificial utiliza?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Candemkey combina una arquitectura híbrida: la escritura básica y sugerencias se procesan localmente en el dispositivo. Cuando solicitas una acción de IA, modelos avanzados de lenguaje (basados en GPT-5 y Claude) procesan tu consulta de manera encriptada y privada.</p></details>
+<details class="qa" name="faq"><summary><span>¿Qué modelo de inteligencia artificial utiliza?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Candemkey combina una arquitectura híbrida: la escritura básica y sugerencias se procesan localmente en el dispositivo. Cuando solicitas una acción de IA, modelos avanzados de lenguaje procesan tu consulta de manera encriptada y privada.</p></details>
 <details class="qa" name="faq"><summary><span>¿En qué se diferencia de Gboard o SwiftKey?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Los teclados estándar solo sugieren palabras sueltas. Candemkey reescribe oraciones completas, adapta el tono a formal o informal y traduce idiomas en vivo sin necesidad de abrir otras aplicaciones.</p></details>
 <details class="qa" name="faq"><summary><span>¿Qué puede hacer la IA?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Al pulsar la tecla de IA, el panel muestra Preguntar y Corregir junto al menú Tono; en Tono están Formal, Informal, Acortar, Ampliar, Traducir y Sugerir respuesta. Para cualquier otra cosa, escríbela en la línea «Dile algo a Candemkey…», por ejemplo traducir un texto o escribir un mensaje desde cero en un campo vacío. Luego, Aplicar pone el resultado en lugar de tu texto, Copiar lo lleva al portapapeles y Reintentar pide otra versión.</p></details>
-<details class="qa" name="faq"><summary><span>¿Tengo que iniciar sesión?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Para escribir, no: el teclado funciona sin cuenta. La IA y la Memoria sí requieren iniciar sesión: con Apple o Google en iPhone, y con Google en Android. La IA también necesita conexión a internet y, en iPhone, Acceso completo.</p></details>
-<details class="qa" name="faq"><summary><span>¿Qué hace «Que la IA aprenda mi estilo de escritura»?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Está desactivado por defecto. Si lo activas, a medida que usas el panel de IA extrae notas breves sobre tu estilo de escritura y las muestra en Memoria con la etiqueta «Aprendido por la IA». Puedes editarlas o borrarlas. El nuevo texto de solicitudes y respuestas de IA ya no se escribe en nuestros registros de depuración; la política explica los registros de pruebas anteriores. Si lo desactivas, se borran las notas aprendidas.</p></details>
+<details class="qa" name="faq"><summary><span>¿Tengo que iniciar sesión?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Para escribir, no: el teclado funciona sin cuenta. Las funciones de IA requieren iniciar sesión: con Apple o Google en iPhone, y con Google en Android. La IA también necesita conexión a internet y, en iPhone, Acceso completo.</p></details>
+<details class="qa" name="faq"><summary><span>¿Cómo funciona el aprendizaje del estilo de escritura?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Esta función está en desarrollo para la primera versión y permanece desactivada. Cuando se active en futuras actualizaciones, la IA podrá guardar notas breves sobre tu estilo de escritura que podrás editar o eliminar en cualquier momento.</p></details>
 <details class="qa" name="faq"><summary><span>¿Cómo funcionan los filtros de seguridad y contenido?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Candemkey funciona con reglas de seguridad fijas aptas para entornos familiares y profesionales; la generación de palabrotas, lenguaje inapropiado y contenido para adultos está totalmente desactivada.</p></details>
 </div>
 <div class="faq-group">
 <h3 class="ck-label faq-group__lbl">PRIVACIDAD</h3>
 <details class="qa" name="faq"><summary><span>¿Se guarda lo que escribo?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">En nuestros servidores, no. El teclado solo envía texto cuando pulsas la tecla de IA e inicias una acción: lo que tengas seleccionado o lo que está antes del cursor. Ese texto va a nuestro proveedor de IA para generar la respuesta; no lo guardamos en nuestros servidores. Si «Aprender palabras» está activado, las palabras nuevas que escribes a menudo se añaden al diccionario personal, solo en tu dispositivo.</p></details>
-<details class="qa" name="faq"><summary><span>¿Qué datos míos se guardan en el servidor?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Si inicias sesión: los datos de tu cuenta, tus ajustes, tus elementos de Memoria y los contadores de uso (sin texto). Puedes exportarlo todo en JSON desde la app o eliminar tu cuenta para borrarlo de forma permanente. Si no inicias sesión, no se guarda ninguna cuenta tuya en el servidor.</p></details>
+<details class="qa" name="faq"><summary><span>¿Qué datos míos se guardan en el servidor?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Si inicias sesión: los datos de tu cuenta, tus ajustes y los contadores de uso (sin texto). Puedes exportarlo todo en JSON desde la app o eliminar tu cuenta para borrarlo de forma permanente. Si no inicias sesión, no se guarda ninguna cuenta tuya en el servidor.</p></details>
 <details class="qa" name="faq"><summary><span>¿Por qué pide Acceso completo?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Solo en iPhone y solo para la IA. iOS solo deja que un teclado se conecte a internet con «Permitir acceso completo» activado, y la IA necesita llegar a nuestro servidor. No hace falta para escribir: desactivado, el teclado funciona sin conexión. Es opcional durante la configuración y puedes saltarlo.</p></details>
 <details class="qa" name="faq"><summary><span>¿Por qué Android muestra una advertencia de seguridad?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Android muestra esa advertencia de forma estándar con cada teclado que activas. Desde el 14 de octubre de 2026, el nuevo texto de IA no se escribe en los registros de depuración de Candemsoft; consulta la política para los registros de pruebas anteriores.</p></details>
 <details class="qa" name="faq"><summary><span>¿Funciona en los campos de contraseña?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">En los campos de contraseña el panel de IA no se abre y el teclado no registra nada. En iPhone, iOS ya cambia a su propio teclado en esos campos.</p></details>
 </div>
 <div class="faq-group">
 <h3 class="ck-label faq-group__lbl">TECLADO</h3>
-<details class="qa" name="faq"><summary><span>¿Es gratis y qué incluye Candemkey Pro?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Candemkey se descarga gratis con 10 peticiones diarias de IA, autocorrector local y máxima privacidad. Candemkey Pro ofrecerá peticiones de IA ilimitadas, tonos avanzados y memoria de redacción personalizada.</p></details>
+<details class="qa" name="faq"><summary><span>¿Es gratis y qué incluye Candemkey Pro?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Las correcciones básicas, el diccionario personal y 10 operaciones diarias de IA son completamente gratuitas. Candemkey Pro ofrecerá uso diario ampliado de IA (100 peticiones al día), estilos profesionales/académicos personalizados y respuesta prioritaria del servidor.</p></details>
 <details class="qa" name="faq"><summary><span>¿Funciona sin conexión a internet?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Sí. La escritura estándar, el diccionario personal y las predicciones funcionan completamente fuera de línea. Únicamente la reescritura profunda y la traducción con IA requieren acceso a internet.</p></details>
 <details class="qa" name="faq"><summary><span>¿En qué idiomas está?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Hay tres distribuciones: turco Q, inglés QWERTY y español QWERTY. Eliges en la app cuáles usar y en qué orden; al abrir el teclado se usa la primera. La app y el panel de IA también están en turco, inglés y español.</p></details>
 <details class="qa" name="faq"><summary><span>¿Puedo cambiar el aspecto del teclado?</span><svg class="ico" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" data-faq-icon><path d="M12 5v14M5 12h14"/></svg></summary><p class="qa-a">Sí. En Ajustes del teclado tienes tema Oscuro, Claro o Sistema; altura Baja (predeterminada), Normal o Alta (en Android también Muy baja); tu propia foto de fondo; bordes de las teclas, modo a una mano y respuesta háptica. El sonido de teclas solo está en iOS.</p></details>

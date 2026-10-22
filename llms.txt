@@ -36,8 +36,14 @@
 
 ### Knowledge Base & Blog
 - [Blog Hub (TR)](https://candemkey.com/tr/blog/): Mobil yazım ve yapay zekâ makaleleri.
+- [AI Keyboard Guide (TR)](https://candemkey.com/tr/blog/yapay-zeka-destekli-klavye-nedir/): Yapay zekâ destekli klavye nedir ve nasıl kullanılır rehberi.
+- [Best AI Keyboards 2026 (TR)](https://candemkey.com/tr/blog/en-iyi-yapay-zeka-klavyeleri/): 2026'nın en iyi mobil yapay zekâ klavye uygulamaları karşılaştırması.
 - [iPhone Keyboard Guide (TR)](https://candemkey.com/tr/blog/iphone-klavye-degistirme/): iPhone klavye değiştirme rehberi.
 - [Formal Email Guide (TR)](https://candemkey.com/tr/blog/resmi-eposta-nasil-yazilir/): Resmi iş e-postası hazırlama teknikleri.
+- [AI Keyboard Guide (EN)](https://candemkey.com/en/blog/what-is-an-ai-keyboard/): What is an AI keyboard and generative typing guide.
+- [Best AI Keyboards (EN)](https://candemkey.com/en/blog/best-ai-keyboards/): Best AI keyboards for iPhone and Android in 2026.
+- [AI Keyboard Guide (ES)](https://candemkey.com/es/blog/que-es-un-teclado-inteligencia-artificial/): Qué es un teclado con inteligencia artificial en móviles.
+- [Best AI Keyboards (ES)](https://candemkey.com/es/blog/mejores-teclados-ia/): Los mejores teclados con inteligencia artificial para móvil.
 
 ## Canonical Links
 - [Homepage (Turkish)](https://candemkey.com/tr/): Turkish product overview and interactive keyboard demo.
